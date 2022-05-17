@@ -4,3 +4,5 @@
 .idea/inspectionProfiles/Project_Default.xml
 .idea/modules.xml
 .idea/workspace.xml
+__pycache__/db_conf.cpython-310.pyc
+*.pyc
